@@ -1,4 +1,4 @@
-# DevOps Assessment Application
+# Containerize-application-using-Docker
 
 A simple "Hello World" full-stack application built with **Django** (Backend) and **React with Vite** (Frontend).
 
